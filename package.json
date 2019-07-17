@@ -1,0 +1,19 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "The burger assignment using handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekpatilbtc/burger.git"
+  },
+  "author": "Abhishek Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekpatilbtc/burger/issues"
+  },
+  "homepage": "https://github.com/abhishekpatilbtc/burger#readme"
+}
