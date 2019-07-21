@@ -2,7 +2,7 @@ body {
     background-image: url("../img/burger.jpg");
     background-size: cover;
     font-family: 'Marcellus', serif;
-    
+
 }
 
 h1 {
@@ -23,3 +23,26 @@ h1 {
 .devour {
     background-color: #ffffff;
 }
+
+.eaten{
+    padding:20px 20px 20px 100px;
+    float: left;
+    width: 40%; 
+}
+
+.notEaten {
+    padding:20px;
+    float: right;
+    width: 30%;
+   
+}
+
+.create-burger {
+    text-align: center
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
