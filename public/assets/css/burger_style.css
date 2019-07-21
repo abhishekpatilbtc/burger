@@ -38,7 +38,8 @@ h1 {
 }
 
 .create-burger {
-    text-align: center
+    text-align: center;
+    padding: 5%
 }
 
 .row:after {
