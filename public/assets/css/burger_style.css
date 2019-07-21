@@ -1,0 +1,25 @@
+body {
+    background-image: url("../img/burger.jpg");
+    background-size: cover;
+    font-family: 'Marcellus', serif;
+    
+}
+
+h1 {
+    text-align:center;
+    font-style: bold;
+}
+
+ h4 {
+    font-style: bold;
+    font-size: 20px;
+    color: #C03704
+}
+
+#submit-id {
+    background-color: #4CAF50;
+}
+
+.devour {
+    background-color: #ffffff;
+}
