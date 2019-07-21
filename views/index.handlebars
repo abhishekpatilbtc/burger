@@ -4,7 +4,7 @@
         <h4>Eaten burgers</h4>
         {{#each burgers}}
         {{#if devoured}}
-        <p> {{id}}. {{burger_name}} </p>
+        <p> {{burger_name}} </p>
         {{/if}}
         {{/each}}
     </div>
@@ -15,7 +15,7 @@
         {{#each burgers}}
         {{#unless devoured}}
         <p>
-            {{id}}. {{burger_name}}
+         {{burger_name}}
             <button class="devour" data-id="{{id}}" data-name="{{burger_name}}">
                 Devour it!
             </button>
